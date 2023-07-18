@@ -1,0 +1,15 @@
+* {
+  font-family: sans-serif;
+}
+
+.download-button {
+  background-color: green;
+  color: white;
+  padding: 5px 20px;
+  border-radius: 5px;
+  border: none;
+}
+
+.paid {
+  background-color: blue;
+}

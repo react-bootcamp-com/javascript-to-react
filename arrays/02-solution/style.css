@@ -1,0 +1,18 @@
+* {
+  font-family: sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+.members {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  column-gap: 10px;
+}
+
+.member,
+img {
+  max-width: 100%;
+}

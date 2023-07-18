@@ -1,0 +1,30 @@
+* {
+  font-family: sans-serif;
+}
+
+h1,
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+  margin-bottom: 10px;
+}
+
+span {
+  font-weight: bold;
+}
+
+.profile {
+  border-radius: 90%;
+  height: 40px;
+  width: 40px;
+}
+
+img {
+  border-radius: 12px;
+}

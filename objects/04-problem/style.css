@@ -1,0 +1,11 @@
+* {
+  font-family: sans-serif;
+}
+
+.message {
+  width: 400px;
+  border: 1px solid darkgray;
+  border-radius: 10px;
+  padding: 1rem;
+  padding-bottom: 0;
+}
